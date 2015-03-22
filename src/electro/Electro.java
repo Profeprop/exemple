@@ -3,9 +3,10 @@ package electro;
 import java.util.Scanner;
 
 public class Electro {
-
+    
+    // Faig canvi
     public static void main(String[] args) {
-        Vendes v = new Vendes(100);
+        Vendes v = new Vendes(1000);
         Scanner teclat = new Scanner(System.in);
         int n;
         float c;
